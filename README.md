@@ -1,9 +1,9 @@
 # Fun with triangles
 This application has multiple sections.
-**1. isTriangle** - Enter the value of all angles of triangle and you'll know if it forms a triangle or not.
-**2. Quiz** - This section contains a quiz to check your knowledge of triangle.
-**3. Hypotenuse** - Enter the base and height of the triangle and you'll know the hypotense of the triangle.
-**4. Area** = This section tells you the area of a triangle, given base and height.
+**1. isTriangle** - Enter the value of all angles of triangle and you'll know if it forms a triangle or not. <br />
+**2. Quiz** - This section contains a quiz to check your knowledge of triangle. <br />
+**3. Hypotenuse** - Enter the base and height of the triangle and you'll know the hypotense of the triangle. <br />
+**4. Area** = This section tells you the area of a triangle, given base and height. <br />
 
 ## *Tech stack used:*
 1. HTML

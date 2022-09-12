@@ -8,6 +8,7 @@
 }
 body{
     background-color: var(--secondary-color);
+    min-height: 100vh;
 }
 
 .angle-input {
@@ -84,3 +85,38 @@ button {
     font-size: large;
     color: var(--primary-color);
 }
+
+.footer {
+    background-color: var(--primary-color);
+    padding: 2rem 1rem;
+    text-align: center;
+    color: white;
+    margin-top: 165px;
+  }
+
+  .list-non-bullet {
+    list-style: none;
+  }
+  
+  .list-item-inline {
+    display: inline;
+    padding: 0rem 0.5rem;
+  }
+
+  .footer ul {
+    padding-inline-start: 0px;
+  }
+  
+  .footer-icons {
+    max-width: 50px;
+  }
+  
+  .footer-text {
+    padding: 0.5rem 0.5rem;
+  }
+
+  .container-centre {
+    max-width: 600px;
+    margin: auto;
+  }
+  

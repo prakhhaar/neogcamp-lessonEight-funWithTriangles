@@ -2,8 +2,10 @@ const quizForm = document.querySelector(".quiz-form");
 const sumbitAnswerButton = document.querySelector("#submit-answers-button");
 const output = document.querySelector("#output");
 
+// Array of correct answers
 const correctAnswers = ["90°", "Right", "1 right angle", "Equilateral", "10 cm"];
 
+// Comparing the answers with correct answers
 function calculateScore(){
     let score = 0;
     let index = 0;
